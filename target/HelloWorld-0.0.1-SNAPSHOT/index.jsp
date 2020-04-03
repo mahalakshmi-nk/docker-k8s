@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Hello World web application</title>
+<title>Hello World web application - mahaupdated</title>
 </head>
 <body>
     <h1>Hello JSP and Servlet!</h1>
